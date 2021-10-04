@@ -1,3 +1,4 @@
+## Info
 ### Hi there 👋
 #### I'm MinGeon Park, a Software Engineer Student. 💻🤏👦👨‍💻
 #### My main language is C#, but I study other languages. The privilege of the student is that there is no limit to the variety of experiences! 🏃‍♂️
@@ -6,8 +7,16 @@
 #### I enjoy travel✈  readin📖 game 🎮
 #### I believe software changes the world ✨
 
-### 💪Skills & Tools
-##### Level : Main
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMinGeonPark&theme=github_dark&show_icons=true)
+
+### Contact
+<a href="mailto:devmin7985@gmail.com">
+  <img alt="Gmail" src ="https://img.shields.io/badge/devmin7985@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+## 💪Skills & Tools
+### Level : Main
 <p>
   <img alt="macOS" src ="https://img.shields.io/badge/MacOS-000000.svg?&style=flat-square&logo=macOS&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
@@ -17,7 +26,7 @@
 
 </p>
 
-#### Level : Sub
+### Level : Sub
 <p>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black"/> 
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
@@ -31,7 +40,7 @@
   
 </p>
 
-#### Level : Basic
+### Level : Basic
 <p>
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
@@ -46,12 +55,10 @@
 
 
 
-<a href="mailto:devmin7985@gmail.com">
-  <img alt="Gmail" src ="https://img.shields.io/badge/devmin7985@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMinGeonPark&theme=github_dark&show_icons=true)
+
+
 
 
