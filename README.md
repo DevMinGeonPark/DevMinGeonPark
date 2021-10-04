@@ -1,7 +1,7 @@
 ## Info
 ### Hi there 👋
 #### I'm MinGeon Park, a Software Engineer Student. 💻🤏👦👨‍💻
-#### My main language is C#, but I study other languages. The privilege of the student is that there is no limit to the variety of experiences! 🏃‍♂️
+#### My main language is C#, but I usually study other languages. The privilege of the student is that there is no limit to the variety of experiences! 🏃‍♂️
 #### Recently, I am studying BCI (Brain Computer-Interface). 🔥
 
 #### I enjoy travel✈  readin📖 game 🎮
