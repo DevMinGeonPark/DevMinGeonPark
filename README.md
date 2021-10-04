@@ -40,6 +40,7 @@
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
   
 </p>
 
@@ -51,7 +52,16 @@
   <img alt="Oracle" src ="https://img.shields.io/badge/Oracle Cloud-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
   <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/>
-   
+  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+  <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=Postman&logoColor=white"/>
+</p>
+<p>
+  <img alt="FileZilla" src ="https://img.shields.io/badge/FileZilla-BF0000.svg?&style=flat-square&logo=FileZilla&logoColor=white"/>
+  <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white"/>
+  <img alt="Android Studio" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=flat-square&logo=Android Studio&logoColor=white"/>
+  <img alt="Wireshark" src ="https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=Wireshark&logoColor=white"/>
+  <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=flat-square&logo=JSON&logoColor=white"/>
 </p>
 
 
