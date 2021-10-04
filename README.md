@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="mailto:devmin7985@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/devmin7985@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!-- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> -->
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMinGeonPark&show_icons=true&theme=radical)
 
