@@ -29,8 +29,6 @@
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
   
-  
-
 </p>
 
 #### Level : Basic
@@ -41,18 +39,19 @@
   <img alt="Oracle" src ="https://img.shields.io/badge/Oracle Cloud-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
   <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/>
-  
-  
-  
+   
 </p>
 
 
 
 
 
-<a href="mailto:devmin7985@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/devmin7985@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:devmin7985@gmail.com">
+  <img alt="Gmail" src ="https://img.shields.io/badge/devmin7985@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMinGeonPark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMinGeonPark&theme=github_dark&show_icons=true)
+
 
