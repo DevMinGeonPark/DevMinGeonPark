@@ -1,10 +1,8 @@
 ## Info
 ### Hi there 👋
-#### I'm MinGeon Park, a Software Engineer Student. 💻🤏👦👨‍💻
-#### My main language is C#, but I usually study other languages. The privilege of the student is that there is no limit to the variety of experiences! 🏃‍♂️
-#### Recently, I am studying BCI (Brain Computer-Interface). 🔥
+#### I'm MinGeon Park, a master's student studying NLP in the AI ​​team at Pusan ​​National University. 💻🤏👦👨‍💻
 
-#### I enjoy travel✈  readin📖 game 🎮
+#### I enjoy travel✈ readin📖 game 🎮
 #### I believe software changes the world ✨
 
 
