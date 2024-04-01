@@ -1,6 +1,6 @@
 ## Info
 ### Hi there 👋
-#### I'm MinGeon Park, a master's student studying NLP in the AI ​​team at Pusan ​​National University. 💻🤏👦👨‍💻
+#### hello. My name is Mingeon Park and I want to study LLM Agent. 💻🤏👦👨‍💻
 
 #### I enjoy travel✈ readin📖 game 🎮
 #### I believe software changes the world ✨
