@@ -1,6 +1,8 @@
 ## Info
 ### Hi there 👋
-#### hello. My name is Mingeon Park and I want to study LLM Agent. 💻🤏👦👨‍💻
+#### hello. I'am Mingeon Park.
+
+I am researching ROS fuzzing and AI. 💻🤏👦👨‍💻
 
 #### I enjoy travel✈ readin📖 game 🎮
 #### I believe software changes the world ✨
