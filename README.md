@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### hello. I'am Mingeon Park.
 
-I am researching ROS fuzzing and AI. 💻🤏👦👨‍💻
+I am interest AI. 💻🤏👦👨‍💻
 
 #### I enjoy travel✈ readin📖 game 🎮
 #### I believe software changes the world ✨
