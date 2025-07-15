@@ -1,8 +1,10 @@
 ## Info
 ### Hi there 👋
-#### hello. I'am Mingeon Park.
+#### I'm Mingeon Park.
 
-I am interest AI. 💻🤏👦👨‍💻
+I research about Agentic AI with LLM. 💻🤏👦👨‍💻
+
+and I speak japanse and english
 
 #### I enjoy travel✈ readin📖 game 🎮
 #### I believe software changes the world ✨
