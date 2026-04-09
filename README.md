@@ -18,9 +18,9 @@
 - **Research Intern @ KITECH (UST)** — ResNet / ViT, 2023 summer
 - **Coding Instructor** — Elice (Python/Algo), Im4u Gifted Academy (C / Olympiad)
 
-### Publications
-- **Latent diffusion-based neural decoding system for cognitive simulation**
-  *Korea Intelligent Information Systems Society, Spring 2023*
+### Talks
+- **Latent diffusion-based neural decoding system for cognitive simulation** — oral presentation
+  *Korea Intelligent Information Systems Society, Spring Conference 2023*
 
 ### Selected Work
 
