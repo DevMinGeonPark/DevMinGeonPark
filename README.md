@@ -13,6 +13,7 @@
 - **AI Developer @ Qbiotech** — *2025.9 – 2026.8 (full-time)* — production AI features, end-to-end
 - **Undergraduate Researcher → M.S. @ SAL Lab** — *2021.9 – present* — with Prof. Seungmin Park
 - **Full-stack Freelance Developer** — *2022 – present* — shipped and still maintain a ~1,200-user app, plus FineGst and other client work
+- **AI Researcher @ KITECH** — *2025.2 – 2025.6* — Manufacturing AI Center
 - **Dev Intern @ Momit** — Next.js 13 admin refactor (2023)
 - **Research Intern @ KITECH (UST)** — ResNet / ViT, 2023 summer
 - **Coding Instructor** — Elice (Python/Algo), Im4u Gifted Academy (C / Olympiad)
