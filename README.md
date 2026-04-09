@@ -12,7 +12,10 @@ M.S. Student (1st year) @ [Soft Artificial Life Lab](https://github.com/soft-ali
 - 🧪 Building agentic systems around LLMs at SAL Lab
 - 🌐 Maintaining the [SAL Lab website](https://github.com/soft-alife/soft-alife.github.io) (Astro, bilingual)
 - 📖 Reimplementing papers to learn — Transformers, attention variants, RL for LLMs
-- 🛠 Freelance work on the side (Qbiotech, FineGst)
+
+### Experience
+- **AI Developer @ Qbiotech** *(~1 year, full-time)* — shipped production AI features end-to-end
+- **Freelance** — FineGst and other web/AI projects on the side
 
 ### Selected Work
 
