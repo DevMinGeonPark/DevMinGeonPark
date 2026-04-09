@@ -14,7 +14,7 @@ M.S. Student (1st year) @ [Soft Artificial Life Lab](https://github.com/soft-ali
 - 📖 Reimplementing papers to learn — Transformers, attention variants, RL for LLMs
 
 ### Experience
-- **AI Developer @ Qbiotech** *(~1 year, full-time)* — shipped production AI features end-to-end
+- **AI Developer @ Qbiotech** *(2025.9 – 2026.8, full-time)* — shipping production AI features end-to-end
 - **Freelance** — FineGst and other web/AI projects on the side
 
 ### Selected Work
