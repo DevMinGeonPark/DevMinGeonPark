@@ -1,0 +1,39 @@
+[한국어](README.md) | English
+
+## Mingeon Park
+
+**Full-stack web + LLM agent developer.** Comfortable from React frontends to agentic LLM
+backends. I ship production systems and write the research behind them.
+
+### Focus
+- **LLM agents** — reasoning, tool use, memory, agentic workflows (main research interest)
+- **Full-stack web** — TypeScript / React / Next.js / Astro / Node, production-grade
+- **Applied ML** — EEG decoding, vision-language grounding, anomaly detection
+
+### Experience
+- **AI Developer @ Qbiotech** — 2025.9 – 2026.8 (full-time), production AI features end to end
+- **Full-stack Freelance Developer** — 2022 – present, shipped and still maintain a ~1,200-user app, plus FineGst and other client work
+- **AI Researcher @ KITECH** — 2025.2 – 2025.6, Manufacturing AI Center
+- **Dev Intern @ Momit** — Next.js 13 admin refactor (2023)
+- **Research Intern @ KITECH (UST)** — ResNet / ViT, summer 2023
+- **Coding Instructor** — Elice (Python/algorithms), Im4u Gifted Academy (C / olympiad)
+
+### Talks
+- **Latent diffusion-based neural decoding system for cognitive simulation** — oral presentation
+  Korea Intelligent Information Systems Society, Spring Conference 2023
+
+### Selected work
+| | |
+|---|---|
+| [EEG2SDiff](https://github.com/DevMinGeonPark/EEG2SDiff) | Neural decoding that reconstructs images from EEG (graduation research) |
+| [Vision-Tools](https://github.com/DevMinGeonPark/Vision-Tools) | Utilities I built for vision research |
+| [Grounding-DINO Experiment](https://github.com/DevMinGeonPark/Grounding-Dino-experiment) | Crystal anomaly detection with vision-language models |
+
+### Stack
+TypeScript · React · Next.js · Astro · Node · Python · PyTorch. Pick the tool that fits the problem.
+
+### Languages
+Korean (native) · English · Japanese
+
+### Contact
+devmin7985@gmail.com
