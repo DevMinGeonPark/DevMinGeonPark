@@ -5,6 +5,11 @@
 **풀스택 웹 + LLM 에이전트 개발자.** React 프론트엔드부터 에이전트형 LLM 백엔드까지 다룹니다.
 프로덕션 시스템을 만들고, 그 뒤에 필요한 연구도 직접 합니다.
 
+<p align="center">
+  <img src="./stat.svg" alt="GitHub 활동 스탯 카드" width="495">
+</p>
+<p align="center"><sub>직접 만든 <a href="https://github.com/DevMinGeonPark/ai-stat-sheet">ai-stat-sheet</a>로 GitHub 활동을 채점한 스탯 카드입니다.</sub></p>
+
 ### 관심 분야
 - **LLM 에이전트** — 추론, 도구 사용, 메모리, 에이전트 워크플로 (주 연구 주제)
 - **풀스택 웹** — TypeScript / React / Next.js / Astro / Node, 프로덕션 수준
