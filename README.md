@@ -8,12 +8,6 @@ LLM 신뢰성(RAG·에이전트)부터 풀스택 제품까지 직접 만들고, 
 <p align="center">
   <img src="./stat.svg" alt="GitHub 활동 스탯 카드" width="495">
 </p>
-<p align="center"><sub>직접 만든 <a href="https://github.com/DevMinGeonPark/ai-stat-sheet">ai-stat-sheet</a>로 GitHub 활동을 채점한 스탯 카드입니다.</sub></p>
-
-### 관심 분야
-- **LLM 신뢰성 · 에이전트** — RAG · 도구 사용 · eval · HITL, 환각을 설계로 차단하는 신뢰 가능한 AI (주 관심)
-- **풀스택 / E2E** — FE·BE·AI·인프라·배포·운영, TypeScript / React / Next.js / Go / Python, 프로덕션 수준
-- **응용 ML** — EEG 디코딩, 비전-언어 그라운딩, 이상 탐지
 
 ### 경력
 - **Applied AI Engineer @ Qbiotech (큐바이오텍)** — 2025.9 – 현재. 법률 RAG 안전문서 자동화·BFD 생성/검증 에이전트 등 **14+ 마이크로서비스를 단독 설계·개발·운영**
