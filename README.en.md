@@ -19,7 +19,6 @@ AI service development and operation, plus in-house AX support (including work f
 - Chat Q&A, article summaries, and document drafts grounded in cited articles. Every draft shows the source articles with links to the original text and is confirmed by the manager
 - Manager-approved examples are added to the search corpus and used to refine prompts and rules
 - Drafting time: 2–3 hours → under 10 minutes (per user feedback)
-- Public reconstruction: [constrained-rag](https://github.com/DevMinGeonPark/constrained-rag) — closed-set outputs, deterministic checks, and legal citations on synthetic data
 
 **3. In-house AI training** — about 30 employees of the affiliate
 - Two 2-hour sessions (2026.06, 2026.08), then 90-minute one-on-one sessions by appointment: Claude basics, finding automation targets per team, hands-on practice
